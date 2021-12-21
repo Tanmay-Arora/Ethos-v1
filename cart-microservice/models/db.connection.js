@@ -4,8 +4,8 @@ var dbConfig = require('../db.config');
 
 
 const razorpay = new Razorpay({
-    key_id: 'rzp_test_vyJglBXedDjebz',
-    key_secret: 'bL962cC6PS64ocBLyRUUuTTx'
+    key_id: '',
+    key_secret: ''
 })
 
 
